@@ -1,0 +1,19 @@
+{
+  "name": "scraping-ameblo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myamyu",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.20.0",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0",
+    "jsdom": "^14.0.0"
+  }
+}
